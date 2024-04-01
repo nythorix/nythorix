@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 ### :man_technologist: About Me :
-I am learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am learner from India.
 - :telescope: I’m learning Web Development and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
