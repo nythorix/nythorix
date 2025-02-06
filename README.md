@@ -25,6 +25,6 @@ I am learner from India.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashwatinhub&show_icons=true&locale=en" alt="shashwatinhub" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashwatinhub&" alt="shashwatinhub" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nythorix&" alt="nythorix" /></p>
 
 
