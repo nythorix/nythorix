@@ -13,7 +13,7 @@ I am learner from India.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/nythorix/" target="blank"><img align="center" src="https://1.bp.blogspot.com/-63r-15zpmOM/X8Q6wGtvi4I/AAAAAAAARjA/D4l2GIB45HQnygIOHe2sLnJSrI6V5nqLgCLcBGAsYHQ/s0/Instagram%2BLogo%2B-%2BDownload%2BFree%2BVector%2BPNG.png" alt="23931922" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nythorix/" target="blank"><img align="center" src="https://toppng.com/uploads/preview/instagram-logo-1155105798346ilx9kcc6.png" alt="23931922" height="30" width="40" /></a>
 <a href="https://codepen.io/shashwatpen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shashwatpen" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23931922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23931922" height="30" width="40" /></a>
 <a href="https://medium.com/@shashwatmishra5252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shashwatmishra5252" height="30" width="40" /></a>
