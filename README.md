@@ -24,7 +24,7 @@ I am learner from India.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashwatinhub&show_icons=true&locale=en&layout=compact" alt="shashwatinhub" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashwatinhub&show_icons=true&locale=en" alt="nythrorix" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nythorix&show_icons=true&locale=en" alt="nythrorix" /></p>
 
 
 
