@@ -3,7 +3,7 @@
 
 ### :man_technologist: About Me :
 I am learner from India.
-- :telescope: I’m learning Web Development and contributing to frontend and backend for building web applications.
+- :telescope: I’m learning Python and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
